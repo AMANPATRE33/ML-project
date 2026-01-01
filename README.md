@@ -1,6 +1,4 @@
-This looks like a solid README, but you're right—it currently reads a bit like a technical manual. To give it that "human touch," you should add your personal motivation, describe the "why" behind your design choices (like the dark theme or the email feature), and use a more conversational tone.
-
-Here is a rewritten version that sounds like you built it with passion and want to show off your hard work:
+(https://ml-project-4k3t8uhxkxwchaab9qqwtt.streamlit.app/)
 
 🎓 EduPredict Pro: Making Sense of Student Success
 Hey there! 👋 This is EduPredict Pro, an end-to-end machine learning project I built to help educators and students understand the factors that drive academic performance.
