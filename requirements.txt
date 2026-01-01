@@ -7,7 +7,15 @@ dill==0.3.8
 catboost
 xgboost
 Flask
+streamlit
+pandas
+dill
+plotly
+statsmodels
+scikit-learn==1.6.1
+#-e .
 pickle
 #-e .
+
 
 #note#C:\Users\anike\AppData\Local\Programs\Python\Python312\python.exe -m pip install dill pandas scikit-learn==1.6.1 streamlit
